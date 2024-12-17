@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="left">I'm Jayesh Shrivastava, a community guy who loves tech and see myself as product enthusiast</h1>
+<h2 align="left">I’m Jayesh Shrivastava — a passionate tech enthusiast, community contributor, and product thinker who loves building impactful software solutions.</h2>
 
 ###
 
@@ -10,7 +10,50 @@
 
 ###
 
-<p align="left">Welcome to my GitHub profile! I'm a passionate C++ programmer with expertise in React and web development. I enjoy collaborating on projects that push the boundaries of software engineering. Here's what you can expect to find in my repositories:<br><br>● C++ Projects<br>→ Various projects showcasing my expertise in C++, including data structures, algorithms implementations, applications, and games.<br>→ Optimization of code for performance and crafting elegant solutions to complex problems.<br><br>● React Applications<br>→ Interactive and user-friendly web applications demonstrating my skills in React.<br>→ Dynamic UIs, state management, and integration with backend services for seamless experiences.<br>→ Single-page applications and reusable component development.<br><br>● Web Development<br>→ Experience in HTML, CSS, and JavaScript for structuring, styling, and adding interactivity to web pages.<br>→ Responsive designs and performance optimization for web solutions that exceed expectations.<br>→ Proficiency in various web development technologies and frameworks.<br><br>● Collaborative Projects<br>→ Active participation in collaborative projects, including code reviews, issue triaging, and feature development.<br>→ Commitment to teamwork and the open-source community's ethos of collaboration and innovation.<br><br>● Learning and Growth<br>→ Continuous learning journey through experimentation with new libraries, frameworks, and participation in online courses.<br>→ Sharing insights and best practices with the developer community to contribute to collective growth.<br>→ Embracing lifelong learning to stay ahead in the ever-changing landscape of software development.<br><br>Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or if you're interested in collaborating on a project. Let's build something amazing together!</p>
+## 🚀 About Me  
+**Hey there! I’m Jayesh Shrivastava** — a passionate **tech enthusiast**, **community contributor**, and **product thinker** who loves building impactful software solutions.  
+
+---
+
+### 👨🏻‍💻 **What I Do**  
+
+- **C++ Development**  
+  - Projects showcasing efficient solutions for **data structures**, **algorithm implementations**, and applications.  
+  - Optimized and performance-driven code to solve complex problems elegantly.  
+
+- **React & Web Development**  
+  - Building **interactive, user-friendly web applications** with React and **Next.js**, focusing on dynamic UIs, state management, and backend integration.  
+  - Developing **end-to-end full-stack projects** with modern tools and frameworks like **Node.js**, **Express**, and **MongoDB**.  
+  - Proficiency in modern web technologies: **HTML**, **CSS**, **JavaScript**, and beyond.  
+  - Creating responsive, reusable components and single-page applications for seamless user experiences.  
+
+- **Machine Learning & Data Analysis**  
+  - Exploring **ML projects** with Python libraries like NumPy, Pandas, and Matplotlib.  
+  - Building solutions that analyze and extract insights from data for decision-making.  
+  - End-to-end model development for real-world use cases.  
+
+- **Collaborative Open Source Projects**  
+  - Actively contributing to collaborative projects with features, code reviews, and issue handling.  
+  - Embracing the spirit of teamwork and open-source innovation.
+
+- **Lifelong Learning & Growth**  
+  - Constantly learning and experimenting with new technologies, libraries, and frameworks.  
+  - Sharing insights with the community to foster growth and collaboration.  
+
+---
+
+### 🌱 **What I'm Currently Learning**  
+- Machine Learning, Data Analysis, and Advanced React/Next.js concepts.  
+- Experimenting with AI/ML-powered solutions to combine tech and problem-solving.  
+
+---
+
+### 🤝 **Let’s Collaborate**  
+Explore my repositories, and feel free to connect if you want to collaborate on:  
+- Scalable **Web Applications** with **React & Next.js**  
+- Innovative **Machine Learning** or **Data Analysis** projects.  
+
+Together, we can build something amazing! 🚀
 
 ###
 
@@ -62,6 +105,63 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/blender/F5792A" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="40" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=black&style=for-the-badge" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pug" height="40" alt="pug logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=white&style=for-the-badge" height="40" alt="yarn logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
+</div>
+
+###
 </div>
 
 ###
@@ -71,6 +171,13 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wishmaster815&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
 
 <h2 align="left">Social media Handles</h2>
 
