@@ -1,59 +1,40 @@
-<h1 align="center">Hello World!!👋</h1>
+<h1 align="center">Hey there, I'm Jayesh Shrivastava 👋</h1>
 
-###
+<h2 align="center">
+  🚀 Full-Stack Developer | 🧠 GenAI & ML Enthusiast | 🎨 UI/UX Explorer
+</h2>
 
-<h2 align="left">I’m Jayesh Shrivastava — a passionate tech enthusiast, community contributor, and product thinker who loves building impactful software solutions.</h2>
+### 🚀 About Me
 
-###
-
-<h2 align="left">About 👨🏻‍💻</h2>
-
-###
-
-## 🚀 About Me  
-**Hey there! I’m Jayesh Shrivastava** — a passionate **tech enthusiast**, **community contributor**, and **product thinker** who loves building impactful software solutions.  
-
----
-
-### 👨🏻‍💻 **What I Do**  
-
-- **C++ Development**  
-  - Projects showcasing efficient solutions for **data structures**, **algorithm implementations**, and applications.  
-  - Optimized and performance-driven code to solve complex problems elegantly.  
-
-- **React & Web Development**  
-  - Building **interactive, user-friendly web applications** with React and **Next.js**, focusing on dynamic UIs, state management, and backend integration.  
-  - Developing **end-to-end full-stack projects** with modern tools and frameworks like **Node.js**, **Express**, and **MongoDB**.  
-  - Proficiency in modern web technologies: **HTML**, **CSS**, **JavaScript**, and beyond.  
-  - Creating responsive, reusable components and single-page applications for seamless user experiences.  
-
-- **Machine Learning & Data Analysis**  
-  - Exploring **ML projects** with Python libraries like NumPy, Pandas, and Matplotlib.  
-  - Building solutions that analyze and extract insights from data for decision-making.  
-  - End-to-end model development for real-world use cases.  
-
-- **Collaborative Open Source Projects**  
-  - Actively contributing to collaborative projects with features, code reviews, and issue handling.  
-  - Embracing the spirit of teamwork and open-source innovation.
-
-- **Lifelong Learning & Growth**  
-  - Constantly learning and experimenting with new technologies, libraries, and frameworks.  
-  - Sharing insights with the community to foster growth and collaboration.  
+- Passionate about **Generative AI**, **Machine Learning**, and building smart systems  
+- Skilled in **C++**, **DSA**, and writing efficient problem-solving code  
+- Love designing smooth and interactive UIs using **React**, **Next.js**, and **Tailwind**  
+- Continuously exploring the possibilities of AI/ML in software development  
+- Active community contributor and open-source collaborator  
 
 ---
 
-### 🌱 **What I'm Currently Learning**  
-- Machine Learning, Data Analysis, and Advanced React/Next.js concepts.  
-- Experimenting with AI/ML-powered solutions to combine tech and problem-solving.  
+### 🧠 Currently Learning
+
+- Advanced React & Next.js ⚛️  
+- AI/ML projects using Python and PyTorch 🧠  
+- Exploring GenAI models and their applications 🤖  
 
 ---
 
-### 🤝 **Let’s Collaborate**  
-Explore my repositories, and feel free to connect if you want to collaborate on:  
-- Scalable **Web Applications** with **React & Next.js**  
-- Innovative **Machine Learning** or **Data Analysis** projects.  
+### 🤝 Let's Collaborate
 
-Together, we can build something amazing! 🚀
+I'm always excited to team up with fellow developers, designers, and thinkers!  
+Feel free to reach out if you’re interested in collaborating on:
+
+- 🚀 Full-Stack Web Apps (React, Next.js, Node.js)  
+- 🧠 GenAI/ML Projects  
+- 🧩 Open-source Contributions  
+- 🛠️ Problem Solving and DSA Practice  
+
+Together, let's create something impactful and innovative!
+
+---
 
 ###
 
@@ -68,6 +49,7 @@ Together, we can build something amazing! 🚀
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo"  />
   <img src="https://skillicons.dev/icons?i=codepen" height="40" alt="codepen logo"  />
 </div>
 
@@ -96,7 +78,6 @@ Together, we can build something amazing! 🚀
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
@@ -133,9 +114,6 @@ Together, we can build something amazing! 🚀
   <img width="12" />
   <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=black&style=for-the-badge" height="40" alt="sass logo"  />
   <img width="12" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
@@ -159,6 +137,21 @@ Together, we can build something amazing! 🚀
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/behance/1769FF" height="40" alt="behance logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 </div>
 
 ###
@@ -185,18 +178,17 @@ Together, we can build something amazing! 🚀
 
 <div align="center">
   <a href="https://www.linkedin.com/in/shrivastava-jayesh/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="54" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/shrivastava815" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <a href="https://x.com/shrivastava815" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="54" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="mailto:jayeshshrivastava815@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="54" height="40" alt="gmail logo"  />
   </a>
-  <a href="jayeshshrivastava815@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="https://www.instagram.com/shrivastava0407/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="54" height="40" alt="instagram logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
 </div>
 
 ###
