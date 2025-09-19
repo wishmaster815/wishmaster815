@@ -159,12 +159,6 @@ Together, let's create something impactful and innovative!
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/codewizard/count.svg?"  />
-</div>
-
-###
-
 
 <h2 align="left">Social media Handles</h2>
 
