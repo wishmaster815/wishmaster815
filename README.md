@@ -28,7 +28,7 @@
 <table>
   <tr>
     <td width="60%" valign="center">
-      <h3 align="left">⚡ About Me: The Intersection of Logic & Design</h3>
+      <h2 align="left">⚡ About Me: The Intersection of Logic & Design</h2>
       <p>
         I am a <b>Full-Stack Developer</b> and <b>AI Enthusiast</b> with a unique blend of skills: the structural mind of a systems engineer and the creative eye of a UI/UX designer.
       </p>
@@ -72,7 +72,7 @@
 <table>
   <tr>
     <td width="65%" valign="top">
-      <h3 align="left">🔥 Current Focus & Leveling Up</h3>
+      <h2 align="left">🔥 Current Focus & Leveling Up</h2>
       <p>
         I am constantly pushing my boundaries to bridge the gap between traditional web development and the new wave of artificial intelligence:
       </p>
@@ -104,7 +104,7 @@
 
 ### 🤝 Let's Build Something Amazing
 
-<img src="https://media.giphy.com/media/BPJmthQ3YRwD6QqcVD/giphy.gif" width="260" />
+<img src="https://media.giphy.com/media/BPJmthQ3YRwD6QqcVD/giphy.gif" width="160" />
 
 *I am open to discussing new projects, creative ideas, or opportunities to be part of your vision.*
 
