@@ -18,9 +18,6 @@
     <a href="https://www.instagram.com/shrivastava0407/" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
     </a>
-    <a href="https://www.behance.net/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo" />
-    </a>
   </p>
 </div>
 
