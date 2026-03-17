@@ -241,7 +241,4 @@
 
   <br />
 
-  <a href="https://github.com/wishmaster815">
-    <img src="https://github-profile-trophy.vercel.app/?username=wishmaster815&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="trophy graph" />
-  </a>
-</div>
+  </div>
